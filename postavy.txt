@@ -1,2 +1,5 @@
 Protagonista: Prasatko
 Popis: Prasatko je chrabry hrdina meho pribehu. Je fesny a kazda svine po nem touzi
+
+Antagonista: Farmar
+Popis: Zli farmar, ktery chce porazit na jatkach Prasatko
